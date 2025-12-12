@@ -1,0 +1,5 @@
+{
+  "name": "UGC Performance Tracker",
+  "description": "Track UGC performance, manage rights, and calculate revenue for TikTok content.",
+  "requestFramePermissions": []
+}
